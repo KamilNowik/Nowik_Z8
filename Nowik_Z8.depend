@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516573596 source:c:\users\kamil\desktop\codeblock\nowik_z8\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+
